@@ -1,0 +1,22 @@
+# Qt Creator
+*.user
+*.user.*
+*.autosave
+
+# Build
+build/
+build-*/
+cmake-build-*/
+
+# Compiled files
+*.exe
+*.dll
+*.obj
+*.o
+
+# Generated files
+moc_*
+ui_*
+qrc_*
+Makefile
+.qmake.stash
